@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-03T13:28:30" hostname="recruit-Lenovo-Product" time="0.013">
+  <properties/>
+  <testcase name="multipleAdd()" classname="calculatorTest" time="0.013"/>
+  <system-out><![CDATA[7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
